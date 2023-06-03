@@ -949,7 +949,7 @@ footer {
 }
 
 
-.divF{
+.divF {
     position: absolute;
     /* border: 2px solid red; */
     width: 75px;
@@ -973,7 +973,7 @@ footer {
 }
 
 
-.oqdifFf{
+.oqdifFf {
     position: absolute;
     width: 98px;
     height: 30px;
@@ -985,9 +985,13 @@ footer {
     margin-top: 40px;
 }
 
-.GisIcon{
+.GisIcon {
     width: 80px;
     height: 41px;
+}
+
+img {
+    cursor: pointer;
 }
 
 
@@ -1008,6 +1012,199 @@ footer {
     }
 
     .oqdiv1 {
-        width: 200px;
+        width: 106.67px;
+        height: 32px;
     }
+
+    .textDiv2 {
+        display: flex;
+        gap: 10px;
+    }
+
+    .yulduztel1 {
+        margin-top: 19px;
+        margin-left: -5px;
+
+    }
+
+    .kattaDiv1 {
+        gap: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        /* margin-left: 65px; */
+        width: 84.44px;
+        height: 38px;
+    }
+
+    .icon1 {
+        width: 43.06px;
+        height: 26px;
+    }
+
+    .textDiv2 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 12px;
+        letter-spacing: -0.03em;
+        color: #000000;
+    }
+
+    .iconnumberDiv1 {
+        margin-top: -3px;
+    }
+
+    .sar2 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 28px;
+        line-height: 110%;
+        letter-spacing: -0.02em;
+        color: #000000;
+    }
+
+    .sar3 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #454545;
+    }
+
+    .saridiv1 {
+        width: 52px;
+        height: 52px;
+        background: #FFEA2E;
+        border-radius: 14.4444px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .sar4 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 18px;
+        letter-spacing: -0.03em;
+        color: #000000;
+        margin-bottom: 4px;
+        margin-top: -2px;
+    }
+
+    .text3 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 140%;
+        letter-spacing: -0.02em;
+        color: #7C7C7C;
+    }
+
+    .KattaSariqDiv {
+        margin-left: 0;
+    }
+
+    .sariniIchidagiOqDiv {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 31px;
+        text-align: center;
+        letter-spacing: -0.03em;
+        color: #000000;
+    }
+
+    .sariniIchidagiOqDiv {
+        padding: 12px 20px;
+    }
+
+    .text5 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 140%;
+        text-align: center;
+        letter-spacing: -0.02em;
+        color: #7C7C7C;
+        margin-top: 8px;
+        margin-bottom: 16px;
+    }
+
+    .icon2 {
+        font-size: 18px;
+        color: #9D9D9D;
+    }
+
+    .text6 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+
+        color: #9D9D9D;
+        margin-left: 10px;
+    }
+
+    .btn2 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        letter-spacing: 0.05em;
+        color: #000000;
+        background: #FFDD2C;
+        border-radius: 16px;
+        padding: 23px 100px;
+    }
+
+    .text7 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 16px;
+        color: #6F6F6F;
+    }
+
+    .moshina1 {
+        position: absolute;
+        margin-top: -23px;
+        margin-left: -3px;
+        width: 337px;
+        height: 185px;
+    }
+
+    .sar8 {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 110%;
+        letter-spacing: -0.03em;
+        color: #000000;
+    }
+
+    .oqdiv2 {
+        width: 365px;
+    }
+
+    .msgVaMinDiv {
+        display: flex;
+        gap: 170px;
+    }
+
+
 }
